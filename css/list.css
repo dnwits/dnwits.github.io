@@ -1,0 +1,48 @@
+/*etiqueta {atributs:valor;   } */
+body{
+    /*background-color: rgba(158, 184, 158, 0.829); */
+    background-image: url("../imagenes/caminante-sobre-el-mar-de-nubes.jpg");
+    background-repeat: repeat-x;
+}
+
+h2
+{
+    color: rgb(126, 21, 42);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    background-color: bisque;
+}
+
+h3
+{
+    color: rgb(15, 75, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    background-color: rgb(154, 205, 221);
+}
+
+li
+{
+    color: rgb(78, 11, 145);
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+dt
+{
+    color: rgb(226, 43, 226);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+dd
+{
+    color: rgb(106, 44, 156);
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+
