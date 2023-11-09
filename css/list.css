@@ -23,7 +23,7 @@ h3
 
 li
 {
-    color: rgb(78, 11, 145);
+    color: rgb(89, 19, 160);
     font-weight: bold;
     font-style: italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -39,8 +39,8 @@ dt
 
 dd
 {
-    color: rgb(106, 44, 156);
-    font-style: italic;
+    color: rgb(236, 106, 182);
+    font-style: bold;
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
 }
