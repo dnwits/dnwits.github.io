@@ -9,9 +9,15 @@ table, th,td{
     color: black;
 }
 
-.bold{
-    color: black;
+
+.precio{
     font-weight: bold;
+    color: black;
+}
+
+.compra{
+    color: blue;
+    text-decoration: underline;
 }
 
 td{
@@ -19,9 +25,11 @@ td{
     color: blue;
 }
 
-/*#class {
-    font-family: 'Times New Roman', Times, serif;
-}*/
+.bold{
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline;
+}
 
 pre{
     font-family: 'Times New Roman', Times, serif;
