@@ -1,0 +1,21 @@
+
+.dias{
+font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    text-align: left;
+}
+
+h3{
+    text-align: right;
+}   
+
+table, td, tr, th{
+    text-align: center;
+    border-style: groove;
+    border-width: 2px;
+    border-collapse: collapse;
+    margin: auto;
+}
+
