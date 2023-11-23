@@ -1,6 +1,21 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300;400&display=swap');
+#tuto{
+    background-color: rgb(236, 238, 143);
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
 .dias{
-src: url(../fonts/Poppins-Italic.ttf);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.horas{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 13px;
 }
 
 caption{
@@ -11,25 +26,22 @@ caption{
 
 }
 
-.patio{
+#patio{
     text-align: center;
+    font-family: monospace;
     font-weight: bold;
+    font-size: 20px;
+    
 }
 
 #logo{
     width: 60px;
 }
 
-#tuto{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgba(127, 255, 212, 0.596);
-    font-size: 14px;
-}
-
 #fol{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgba(139, 127, 243, 0.637);
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .m04{
@@ -48,12 +60,12 @@ caption{
 .m07{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgba(166, 201, 109, 0.89);
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .m06{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgba(228, 143, 143, 0.89);
+    src: url(../fonts/Poppins-Italic.ttf);
+    background-color: rgba(126, 240, 202, 0.699);
     font-size: 15px;
 }
 
@@ -62,11 +74,11 @@ caption{
 }
 
 h1{
-    text-align: left;
+    text-align: center;
 }
 
-h3{
-    text-align: right;
+h4{
+    text-align: center;
 }   
 
 table{
@@ -75,10 +87,6 @@ table{
     border-width: 2px;
     border-collapse: collapse;
     margin: auto;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px
 }
 
 td{
@@ -86,7 +94,7 @@ td{
     border-collapse: collapse;
     border-width: 2px;
     padding-top: 20px;
-    padding-right: 15px;
+    padding-right: 20px;
     padding-bottom: 20px;
     padding-left: 20px
 }
@@ -96,7 +104,7 @@ tr{
     border-collapse: collapse;
     border-width: 2px;
     padding-top: 20px;
-    padding-right: 15px;
+    padding-right: 20px;
     padding-bottom: 20px;
     padding-left: 20px
     
