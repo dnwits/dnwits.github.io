@@ -1,6 +1,31 @@
 
 .dias{
-font-family: 'Roboto Mono', monospace;
+src: url(../fonts/Poppins-Italic.ttf);
+}
+
+caption{
+    font-size: 25px;
+    color: darkslategrey;
+    text-decoration: underline;
+    padding-bottom: 15px;
+
+}
+
+.patio{
+    text-align: center;
+    font-weight: bold;
+}
+
+.aula{
+    font-style: italic;
+}
+
+.modul{
+
+}
+
+.profe{
+    
 }
 
 h1{
@@ -11,11 +36,45 @@ h3{
     text-align: right;
 }   
 
-table, td, tr, th{
+table{
     text-align: center;
     border-style: groove;
     border-width: 2px;
     border-collapse: collapse;
     margin: auto;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px
 }
 
+td{
+    border-style: groove;
+    border-collapse: collapse;
+    border-width: 2px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px
+}
+
+tr{
+    border-style: groove;
+    border-collapse: collapse;
+    border-width: 2px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px
+    
+}
+
+th{
+    border-style: groove;
+    border-collapse: collapse;
+    border-width: 2px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px
+}
