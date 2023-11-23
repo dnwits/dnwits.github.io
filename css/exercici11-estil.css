@@ -16,16 +16,49 @@ caption{
     font-weight: bold;
 }
 
+#logo{
+    width: 60px;
+}
+
+#tuto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(127, 255, 212, 0.596);
+    font-size: 14px;
+}
+
+#fol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(139, 127, 243, 0.637);
+    font-size: 14px;
+}
+
+.m04{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(100, 148, 237, 0.534);
+    font-size: 14px;
+
+}
+
+.m08{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(230, 122, 194, 0.507);
+    font-size: 15px;
+}
+
+.m07{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(166, 201, 109, 0.89);
+    font-size: 15px;
+}
+
+.m06{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgba(228, 143, 143, 0.89);
+    font-size: 15px;
+}
+
 .aula{
     font-style: italic;
-}
-
-.modul{
-
-}
-
-.profe{
-    
 }
 
 h1{
