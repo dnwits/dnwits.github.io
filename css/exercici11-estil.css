@@ -1,10 +1,12 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Italic.ttf');
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300;400&display=swap');
-#tuto{
+#tuto-roboto{
     background-color: rgb(236, 238, 143);
     font-size: 15px;
     font-family: 'Roboto', sans-serif;
-    font-family: 'Roboto Mono', monospace;
 }
 .dias{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -31,7 +33,6 @@ caption{
     font-family: monospace;
     font-weight: bold;
     font-size: 20px;
-    
 }
 
 #logo{
@@ -63,7 +64,7 @@ caption{
     font-size: 16px;
 }
 
-.m06{
+.m06-poppins{
     src: url(../fonts/Poppins-Italic.ttf);
     background-color: rgba(126, 240, 202, 0.699);
     font-size: 15px;
@@ -119,3 +120,4 @@ th{
     padding-bottom: 15px;
     padding-left: 15px
 }
+
