@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: rgb(110, 148, 115);
+    font-size: 35px;
+}
+
+.apartado1{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(81, 148, 202);
+}
+
+.subrayado {
+    text-decoration: underline;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#inf-bas{
+    background-color: rgb(204, 233, 236);
+    width:625px;
+    height:300px;
+    margin:auto;
+    border-radius:10px 10px 10px 10px;
+}
+
+#nombre{
+    color: rgba(150, 150, 150, 0.829);
+}
+
+#nombre{
+    color: rgba(150, 150, 150, 0.829);
+}
