@@ -12,21 +12,41 @@
               <legend class="subrayado">Información básica</legend>
 
                 <label class="apartado1">Nombre:</label><br>
-                <input type="text" id="nombre" name="nombre" value="tunombre"><br><br>
+                <input type="text" id="nombre" name="nombre" placeholder="tunombre"><br><br>
               
                 <label class="apartado1">Altura en centímetros:</label><br>
-                <input type="number" id="altura" name="altura" min="0" max="300" value="150"><br><br>
+                <input type="number" id="altura" name="altura" min="0" max="300" placeholder="150"><br><br>
 
                 <label class="apartado1">Email:</label><br>
-                <input type="email" id="email" name="email" value="tuemail@dominio.com"><br><br>
+                <input type="email" id="email" name="email" placeholder="tuemail@dominio.com"><br><br>
 
                 <label class="apartado1">Fecha de nacimiento:</label><br>
                 <input type="date" id="fecha" name="fecha"><br><br>
+            </fieldset>
 
+            <fieldset id="nation">
+              <legend class="subrayado">Nacionalidad</legend>
+
+                <input type="radio" id="española" name="nacionalidad" value="Española">
+                <label for="española">Española</label>
+
+                <input type="radio" id="comunitario" name="nacionalidad" value="Comunitario(EU)">
+                <label for="comunitario">Comunitario(EU)</label>
+
+                <input type="radio" id="no-comunitario" name="nacionalidad" value="No comunnitario">
+                <label for="no-comunitario">No comunnitario</label>
             </fieldset>
-            <fieldset>
-                <label for=""></label>
+
+            <fieldset id="estudios">
+                <legend class="subrayado">Estudios</legend>
+                  <select id="studies" name="estudios">
+                    <option value="eso">ESO</option>
+                    <option value="gm">GM</option>
+                    <option value="gs">GS</option>
+                    <option value="universidad">Universidad</option>
+                  </select>
             </fieldset>
+
             <input type="submit" value="Submit">
           </form>
 

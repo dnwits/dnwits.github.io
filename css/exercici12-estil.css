@@ -24,10 +24,29 @@ h1{
     border-radius:10px 10px 10px 10px;
 }
 
-#nombre{
-    color: rgba(150, 150, 150, 0.829);
+#nation{
+    background-color: rgb(241, 189, 120);
+    width:625px;
+    height:65px;
+    margin:auto;
+    border-radius:10px 10px 10px 10px;
+}
+
+#estudios{
+    background-color: rgb(231, 150, 191);
+    width:625px;
+    height:45px;
+    margin:auto;
+    border-radius:10px 10px 10px 10px;
 }
 
 #nombre{
-    color: rgba(150, 150, 150, 0.829);
+    color: black;
+    width: 400px;
+    height: 10px;
 }
+
+#altura{
+    color: black;
+}
+
