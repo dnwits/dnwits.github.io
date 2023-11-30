@@ -1,13 +1,14 @@
 h1{
     text-align: center;
-    color: rgb(110, 148, 115);
-    font-size: 35px;
+    color: rgb(155, 120, 196);
+    font-size: 40px;
+    text-decoration: underline;
 }
 
 .apartado1{
     font-size: 20px;
     font-style: italic;
-    color: rgb(81, 148, 202);
+    color: rgb(51, 149, 230);
 }
 
 .subrayado {
@@ -16,8 +17,20 @@ h1{
     font-weight: bold;
 }
 
+.apartado2{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(238, 100, 58);
+}
+
+.apartado4{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(160, 12, 12);
+}
+
 #inf-bas{
-    background-color: rgb(204, 233, 236);
+    background-color: rgb(209, 238, 241);
     width:625px;
     height:270px;
     margin:auto;
@@ -25,7 +38,7 @@ h1{
 }
 
 #nation{
-    background-color: rgb(241, 189, 120);
+    background-color: rgb(233, 200, 158);
     width:625px;
     height:65px;
     margin:auto;
@@ -33,7 +46,7 @@ h1{
 }
 
 #estudios{
-    background-color: rgb(231, 150, 191);
+    background-color: rgb(200, 236, 159);
     width:625px;
     height:45px;
     margin:auto;
@@ -41,7 +54,7 @@ h1{
 }
 
 #idiomas{
-    background-color: rgb(216, 89, 89);
+    background-color: rgb(228, 121, 121);
     width:625px;
     height:45px;
     margin:auto;
@@ -59,10 +72,13 @@ h1{
 #nombre{
     color: black;
     width: 400px;
-    height: 10px;
+    height: 20px;
 }
 
 #altura{
     color: black;
+    width: 150px;
+    height: 15px;
 }
+
 
