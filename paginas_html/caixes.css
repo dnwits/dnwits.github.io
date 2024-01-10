@@ -1,0 +1,26 @@
+h1, h3, p{
+    border: 3px solid black
+}
+strong{
+    border: 3px solid blue
+}
+
+h1{
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+div{
+    border: 2px dotted rgb(98, 136, 55);
+    margin-bottom: 5px;
+}
+
+#reducc40{
+    width: 40%;
+}
+
+#reducc50{
+    width: 50%;
+}
