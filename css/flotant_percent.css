@@ -1,0 +1,83 @@
+div{
+    border: 1px solid purple;
+    margin: 2px;
+    position: relative;
+}
+
+#principal{
+    border: 1px solid black;
+    height: 600px;
+    width: 600px;
+}
+
+#b1{
+    float: left;
+    width: 63%;
+    height: 86px;
+}
+
+#b2{
+    float: right;
+    width: 35%;
+    height: 86px;
+}
+
+#b3{
+    float: left;
+    width: 31%;
+    height: 172px;
+}
+
+#b4{
+    float: left;
+    width: 31%;
+    height: 172px;
+}
+
+#b5{
+    float: right;
+    width: 35%;
+    height: 83px;
+}
+
+#b6{
+    float: right;
+    width: 35%;
+    height: 83px;
+}
+
+#b7{
+    float: left;
+    width: 63%;
+    height: 86px;
+}
+
+#b8{
+    float: left;
+    width: 63%;
+    height: 86px;
+}
+
+#b9{
+    float: right;
+    width: 35%;
+    height: 172px;
+}
+
+#b10{
+    float: left;
+    width: 30%;
+    height: 86px;
+}
+
+#b11{
+    float: left;
+    width: 30%;
+    height: 86px;
+}
+
+#b12{
+    float: left;
+    width: 30%;
+    height: 86px;
+}
