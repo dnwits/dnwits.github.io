@@ -10,12 +10,14 @@ div{
 
 #izquierda{
     float: left;
-    width: 60%;
+    width: 64.5%;
+    margin: 1px;
 }
 
 #derecha{
     float: right;
-    width: auto;
+    width: 34%;
+    margin: 1px;
 }
 
 
@@ -23,74 +25,86 @@ div{
     background-color: green;
     width: 100%;
     height: 95px;
-    margin: 2px;
 }
 
 #b2{
-    background-color: green;
-    width: 31.25%;
-    height: 95px;
+    background-color: black;
+    color: aliceblue;
+    float: left;
+    width: 48.5%;
+    height: 192px;
 }
 
 #b3{
-    background-color: black;
+    background-color: green;
     color: aliceblue;
-    width: 31.25%;
-    height: 190px;
+    float: right;
+    width: 48.5%;
+    height: 295px;
 }
 
 #b4{
     background-color: green;
-    width: 31.25%;
-    height: 280px;
-}
-
-#b5{
-    background-color: green;
-    width: 34.5%;
+    float: left;
+    width: 48.5%;
     height: 95px;
 }
 
+#b5{
+    background-color: black;
+    color: aliceblue;
+    float: left;
+    width: 48.5%;
+    height: 196px;
+}
+
 #b6{
-    background-color: green;
-    width: 34.5%;
+    background-color: greenyellow;
+    float: right;
+    width: 48.5%;
     height: 95px;
 }
 
 #b7{
-    background-color: black;
-    color: aliceblue;
-    width: 34.5%;
-    height: 190px;
+    background-color: greenyellow;
+    float: right;
+    width: 48.5%;
+    height: 95px;
 }
 
 #b8{
-    background-color: green;
-    width: 31.25%;
+    background-color: greenyellow;
+    float: left;
+    width: 98%;
     height: 95px;
 }
 
 #b9{
     background-color: green;
-    width: 30%;
+    float: left;
+    width: 98%;
     height: 95px;
 }
 
 #b10{
-    background-color: green;
-    width: 31.25%;
+    background-color: greenyellow;
+    float: left;
+    width: 98%;
     height: 95px;
 }
 
 #b11{
-    background-color: green;
-    width: 31.25%;
-    height: 95px;
+    background-color: black;
+    color: aliceblue;
+    float: left;
+    width: 98%;
+    height: 196px;
 }
 
 #b12{
     background-color: green;
-    width: 31.25%;
+    float: left;
+    width: 98%;
     height: 95px;
 }
 
