@@ -5,95 +5,99 @@
 }*/
 
 div{
-    margin: 1px;
+    margin: 2px;
 }
 
 #principal{
     border: 1px solid black;
     height: 600px;
     width: 600px;
+    padding: 1px 1px 1px 1px;
 }
 
 #b1{
     background-color: green;
     float: left;
-    width: 64%;
-    height: 90px;
+    width: 63.5%;
+    height: 95px;
+    margin: 2px;
 }
 
 #b2{
     background-color: greenyellow;
     float: right;
-    width: 35%;
-    height: 90px;
+    width: 34.5%;
+    height: 95px;
 }
 
 #b3{
     background-color: black;
+    color: aliceblue;
     float: left;
-    width: 32%;
-    height: 180px;
+    width: 31.25%;
+    height: 190px;
 }
 
 #b4{
     background-color: greenyellow;
     float: left;
-    width: 32%;
-    height: 180px;
+    width: 31.25%;
+    height: 190px;
 }
 
 #b5{
     background-color: green;
     float: right;
     width: 35%;
-    height: 83px;
+    height: 90.60px;
 }
 
 #b6{
     background-color: greenyellow;
     float: right;
     width: 35%;
-    height: 83px;
+    height: 90.60px;
 }
 
 #b7{
     background-color: green;
     float: left;
     width: 63%;
-    height: 86px;
+    height: 98px;
 }
 
 #b8{
-    background-color: greenyellow;
-    float: left;
-    width: 63%;
-    height: 86px;
+    background-color: black;
+    color: aliceblue;
+    float: right;
+    width: 35%;
+    height: 200px;
 }
 
 #b9{
-    background-color: black;
-    float: right;
-    width: 35%;
-    height: 172px;
+    background-color: greenyellow;
+    float: left;
+    width: 63%;
+    height: 98px;
 }
 
 #b10{
-    background-color: green;
-    float: left;
-    width: 30%;
-    height: 86px;
+    background-color: greenyellow;
+    float: right;
+    width: 35%;
+    height: 95px;
 }
 
 #b11{
-    background-color: greenyellow   ;
+    background-color: greenyellow;
     float: left;
-    width: 30%;
-    height: 86px;
+    width: 31.5%;
+    height: 95px;
 }
 
 #b12{
     background-color: green;
     float: left;
-    width: 30%;
-    height: 86px;
+    width: 31.5%;
+    height: 95px;
 }
