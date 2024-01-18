@@ -1,7 +1,11 @@
-div{
+/*div{
     border: 1px solid purple;
     margin: 2px;
     position: relative;
+}*/
+
+div{
+    margin: 1px;
 }
 
 #principal{
@@ -11,72 +15,84 @@ div{
 }
 
 #b1{
+    background-color: green;
     float: left;
-    width: 63%;
-    height: 86px;
+    width: 64%;
+    height: 90px;
 }
 
 #b2{
+    background-color: greenyellow;
     float: right;
     width: 35%;
-    height: 86px;
+    height: 90px;
 }
 
 #b3{
+    background-color: black;
     float: left;
-    width: 31%;
-    height: 172px;
+    width: 32%;
+    height: 180px;
 }
 
 #b4{
+    background-color: greenyellow;
     float: left;
-    width: 31%;
-    height: 172px;
+    width: 32%;
+    height: 180px;
 }
 
 #b5{
+    background-color: green;
     float: right;
     width: 35%;
     height: 83px;
 }
 
 #b6{
+    background-color: greenyellow;
     float: right;
     width: 35%;
     height: 83px;
 }
 
 #b7{
+    background-color: green;
     float: left;
     width: 63%;
     height: 86px;
 }
 
 #b8{
+    background-color: greenyellow;
     float: left;
     width: 63%;
     height: 86px;
 }
 
 #b9{
+    background-color: black;
     float: right;
     width: 35%;
     height: 172px;
 }
 
 #b10{
+    background-color: green;
     float: left;
     width: 30%;
     height: 86px;
 }
 
 #b11{
+    background-color: greenyellow   ;
     float: left;
     width: 30%;
     height: 86px;
 }
 
 #b12{
+    background-color: green;
     float: left;
     width: 30%;
     height: 86px;
