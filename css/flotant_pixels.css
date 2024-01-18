@@ -10,16 +10,18 @@ div{
 
 #izquierda{
     float: left;
+    width: 60%;
 }
 
 #derecha{
     float: right;
+    width: auto;
 }
 
 
 #b1{
     background-color: green;
-    width: 63.5%;
+    width: 100%;
     height: 95px;
     margin: 2px;
 }
