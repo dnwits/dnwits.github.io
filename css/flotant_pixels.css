@@ -1,0 +1,94 @@
+div{
+    margin: 2px;
+}
+
+#principal{
+    border: 1px solid black;
+    height: 600px;
+    width: 600px;   
+}
+
+#izquierda{
+    float: left;
+}
+
+#derecha{
+    float: right;
+}
+
+
+#b1{
+    background-color: green;
+    width: 63.5%;
+    height: 95px;
+    margin: 2px;
+}
+
+#b2{
+    background-color: green;
+    width: 31.25%;
+    height: 95px;
+}
+
+#b3{
+    background-color: black;
+    color: aliceblue;
+    width: 31.25%;
+    height: 190px;
+}
+
+#b4{
+    background-color: green;
+    width: 31.25%;
+    height: 280px;
+}
+
+#b5{
+    background-color: green;
+    width: 34.5%;
+    height: 95px;
+}
+
+#b6{
+    background-color: green;
+    width: 34.5%;
+    height: 95px;
+}
+
+#b7{
+    background-color: black;
+    color: aliceblue;
+    width: 34.5%;
+    height: 190px;
+}
+
+#b8{
+    background-color: green;
+    width: 31.25%;
+    height: 95px;
+}
+
+#b9{
+    background-color: green;
+    width: 30%;
+    height: 95px;
+}
+
+#b10{
+    background-color: green;
+    width: 31.25%;
+    height: 95px;
+}
+
+#b11{
+    background-color: green;
+    width: 31.25%;
+    height: 95px;
+}
+
+#b12{
+    background-color: green;
+    width: 31.25%;
+    height: 95px;
+}
+
