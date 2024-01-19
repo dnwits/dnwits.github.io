@@ -1,29 +1,29 @@
 div{
-    margin: 2px;
+    margin: 1.5px;
 }
 
 #principal{
     border: 1px solid black;
     height: 600px;
-    width: 600px;   
+    width: 600px;  
 }
 
 #izquierda{
     float: left;
-    width: 64.5%;
+    width: 390px;
     margin: 1px;
 }
 
 #derecha{
     float: right;
-    width: 34%;
+    width: 202px;
     margin: 1px;
 }
 
 
 #b1{
     background-color: green;
-    width: 100%;
+    width: 388px;
     height: 95px;
 }
 
@@ -31,7 +31,7 @@ div{
     background-color: black;
     color: aliceblue;
     float: left;
-    width: 48.5%;
+    width: 190px;
     height: 192px;
 }
 
@@ -39,14 +39,14 @@ div{
     background-color: green;
     color: aliceblue;
     float: right;
-    width: 48.5%;
+    width: 194px;
     height: 295px;
 }
 
 #b4{
     background-color: green;
     float: left;
-    width: 48.5%;
+    width: 190px;
     height: 95px;
 }
 
@@ -54,42 +54,42 @@ div{
     background-color: black;
     color: aliceblue;
     float: left;
-    width: 48.5%;
+    width: 190px;
     height: 196px;
 }
 
 #b6{
     background-color: greenyellow;
     float: right;
-    width: 48.5%;
+    width: 192px;
     height: 95px;
 }
 
 #b7{
     background-color: greenyellow;
     float: right;
-    width: 48.5%;
+    width: 192px;
     height: 95px;
 }
 
 #b8{
     background-color: greenyellow;
     float: left;
-    width: 98%;
+    width: 198px;
     height: 95px;
 }
 
 #b9{
     background-color: green;
     float: left;
-    width: 98%;
+    width: 198px;
     height: 95px;
 }
 
 #b10{
     background-color: greenyellow;
     float: left;
-    width: 98%;
+    width: 198px;
     height: 95px;
 }
 
@@ -97,14 +97,14 @@ div{
     background-color: black;
     color: aliceblue;
     float: left;
-    width: 98%;
+    width: 198px;
     height: 196px;
 }
 
 #b12{
     background-color: green;
     float: left;
-    width: 98%;
+    width: 198px;
     height: 95px;
 }
 
