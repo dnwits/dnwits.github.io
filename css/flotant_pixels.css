@@ -10,13 +10,13 @@ div{
 
 #izquierda{
     float: left;
-    width: 390px;
+    width: 392px;
     margin: 1px;
 }
 
 #derecha{
     float: right;
-    width: 202px;
+    width: 204px;
     margin: 1px;
 }
 
@@ -32,7 +32,7 @@ div{
     color: aliceblue;
     float: left;
     width: 190px;
-    height: 192px;
+    height: 196px;
 }
 
 #b3{
@@ -62,14 +62,14 @@ div{
     background-color: greenyellow;
     float: right;
     width: 192px;
-    height: 95px;
+    height: 96px;
 }
 
 #b7{
     background-color: greenyellow;
     float: right;
     width: 192px;
-    height: 95px;
+    height: 96px;
 }
 
 #b8{
@@ -104,7 +104,7 @@ div{
 #b12{
     background-color: green;
     float: left;
-    width: 198px;
-    height: 95px;
+    width: 199px;
+    height: 98px;
 }
 
