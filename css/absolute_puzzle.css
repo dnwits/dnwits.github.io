@@ -18,7 +18,7 @@ div{
 #b2{
     background-color: green;
     position: absolute;
-    top: 95px;
+    top: 92px;
     width: 200px;
     height: 77px;
 }
@@ -26,7 +26,7 @@ div{
 #b3{
     background-color: greenyellow;
     position: absolute;
-    top: 180px;
+    top: 175px;
     width: 200px;
     height: 77px;
 }
@@ -34,7 +34,7 @@ div{
 #b4{
     background-color: green;
     position: absolute;
-    top: 265px;
+    top: 258px;
     width: 200px;
     height: 77px;
 }
@@ -42,23 +42,23 @@ div{
 #b5{
     background-color: aquamarine;
     position: absolute;
-    top: 110px;
-    left: 220px;
-    width: 385px;
-    height: 280px;
+    top: 94px;
+    left: 218px;
+    width: 386px;
+    height: 243px;
 }
 
 #b6{
     background-color: black;
     color: aliceblue;
     position: absolute;
-    top: 350px;
+    top: 340px;
     width: 200px;
     height: 180px;
 }
 
 #b7{
-    background-color: green;
+    background-color: greenyellow;
     position: absolute;
     top: 525px;
     width: 400px;
@@ -66,13 +66,28 @@ div{
 }
 
 #b8{
-    
+    background-color: greenyellow;
+    position: absolute;
+    top: 340px;
+    left: 218px ;
+    width: 194px;
+    height: 87px;
 }
 
 #b9{
-    
+    background-color: green;
+    position: absolute;
+    top: 430px;
+    left: 218px ;
+    width: 194px;
+    height: 87px;
 }
 
 #b10{
-    
+    background-color: greenyellow;
+    position: absolute;
+    top: 340px;
+    left: 418px ;
+    width: 186px;
+    height: 260px;
 }
