@@ -1,0 +1,105 @@
+div{
+    margin: 2px;
+}
+
+#top:hover{
+    opacity: 0.5;
+}
+
+#principal{
+    border: 1px solid black;
+    height: 600px;
+    width: 600px;
+
+}
+
+#b1{
+    background-image: url(../imagenes/1.jpg);
+    background-size: 594px 200px;
+    background-position-y: 9%;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 594px;
+    height: 77px;
+}
+
+#b2{
+    background-color: green;
+    position: absolute;
+    top: 90px;
+    width: 193px;
+    height: 83px;
+}
+
+#b3{
+    background-color: greenyellow;
+    position: absolute;
+    top: 176px;
+    width: 193px;
+    height: 83px;
+}
+
+#b4{
+    background-color: green;
+    position: absolute;
+    top: 263px;
+    width: 193px;
+    height: 83px;
+}
+
+#b5{
+    background-image: url(../imagenes/the-fall-of-the-rebel-angels.jpg);
+    background-size: 395px 254px;
+    position: absolute;
+    top: 92px;
+    left: 210px;
+    width: 395px;
+    height: 254px;
+}
+
+#b6{
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+    top: 350px;
+    width: 193px;
+    height: 170px;
+}
+
+#b7{
+    background-color: greenyellow;
+    position: absolute;
+    top: 525px;
+    width: 398px;
+    height: 79px;
+}
+
+#b8{
+    background-color: greenyellow;
+    position: absolute;
+    top: 350px;
+    left: 210px;
+    width: 199px;
+    height: 83px;
+}
+
+#b9{
+    background-color: green;
+    position: absolute;
+    top: 437px;
+    left: 210px;
+    width: 199px;
+    height: 83px;
+}
+
+#b10{
+    background-color: greenyellow;
+    position: absolute;
+    background-image: url(../imagenes/10.jpg);
+    background-size: 190px 254px;
+    background-repeat: no-repeat;
+    top: 350px;
+    left: 415px;
+    width: 190px;
+    height: 254px;
+}
