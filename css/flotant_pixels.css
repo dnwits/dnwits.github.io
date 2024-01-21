@@ -23,7 +23,7 @@ div{
 
 #b1{
     background-color: green;
-    width: 388px;
+    width: 389px;
     height: 95px;
 }
 
@@ -37,7 +37,6 @@ div{
 
 #b3{
     background-color: green;
-    color: aliceblue;
     float: right;
     width: 194px;
     height: 295px;
@@ -61,14 +60,14 @@ div{
 #b6{
     background-color: greenyellow;
     float: right;
-    width: 192px;
+    width: 194px;
     height: 96px;
 }
 
 #b7{
     background-color: greenyellow;
     float: right;
-    width: 192px;
+    width: 194px;
     height: 96px;
 }
 
