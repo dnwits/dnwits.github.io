@@ -58,7 +58,9 @@ div{
 }
 
 #b6{
-    background-color: black;
+    background-image: url(../imagenes/6.jpg);
+    background-size: 193px 210px;
+    background-position-y: 1px;
     color: aliceblue;
     position: absolute;
     top: 350px;
