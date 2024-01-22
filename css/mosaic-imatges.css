@@ -19,7 +19,7 @@ div{
     background-position-y: 9%;
     background-repeat: no-repeat;
     position: absolute;
-    width: 594px;
+    width: 592px;
     height: 77px;
 }
 
@@ -59,8 +59,9 @@ div{
 
 #b6{
     background-image: url(../imagenes/6.jpg);
-    background-size: 193px 210px;
-    background-position-y: 1px;
+    background-size: 193px 230px;
+    background-position-y: 28%;
+    background-repeat: no-repeat;
     color: aliceblue;
     position: absolute;
     top: 350px;
