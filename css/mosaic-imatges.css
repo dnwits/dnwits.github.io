@@ -24,7 +24,10 @@ div{
 }
 
 #b2{
-    background-color: green;
+    background-image: url(../imagenes/2-3-4.jpg);
+    background-size: 210px 700px;
+    background-position-y: 27%;
+    background-position-x: 15%;
     position: absolute;
     top: 90px;
     width: 193px;
@@ -32,7 +35,10 @@ div{
 }
 
 #b3{
-    background-color: greenyellow;
+    background-image: url(../imagenes/2-3-4.jpg);
+    background-size: 210px 700px;
+    background-position-y: 41%;
+    background-position-x: 15%;
     position: absolute;
     top: 176px;
     width: 193px;
@@ -40,7 +46,10 @@ div{
 }
 
 #b4{
-    background-color: green;
+    background-image: url(../imagenes/2-3-4.jpg);
+    background-size: 210px 700px;
+    background-position-y: 55%;
+    background-position-x: 15%;
     position: absolute;
     top: 263px;
     width: 193px;
@@ -59,7 +68,7 @@ div{
 
 #b6{
     background-image: url(../imagenes/6.jpg);
-    background-size: 193px 230px;
+    background-size: 193px 238px;
     background-position-y: 28%;
     background-repeat: no-repeat;
     color: aliceblue;
@@ -70,7 +79,11 @@ div{
 }
 
 #b7{
-    background-color: greenyellow;
+    background-image: url(../imagenes/7.jpg);
+    background-size: 355px 170px;
+    background-position-y: 25%;
+    background-position-x: 35%;
+    background-repeat: repeat;
     position: absolute;
     top: 525px;
     width: 398px;
@@ -78,7 +91,9 @@ div{
 }
 
 #b8{
-    background-color: greenyellow;
+    background-image: url(../imagenes/8-9.jpg);
+    background-size: 215px 290px;
+    background-position-y: 24%;
     position: absolute;
     top: 350px;
     left: 210px;
@@ -87,7 +102,9 @@ div{
 }
 
 #b9{
-    background-color: green;
+    background-image: url(../imagenes/8-9.jpg);
+    background-size: 215px 290px;
+    background-position-y: 70%;
     position: absolute;
     top: 437px;
     left: 210px;
