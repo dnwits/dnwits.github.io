@@ -1,0 +1,30 @@
+body{
+    background-color: #fef2cd;
+}
+
+#principal{
+    width: 830px;
+    border: 5px solid black;
+}
+
+#izq1{
+    float: left;
+}
+
+#sighted{
+    float: left;
+}
+
+#sirius{
+    float: left;
+    background-image: url(../imagenes/siriusBlackGif.gif);
+    background-size: 600px 650px;
+}
+
+#izq2{
+    float: left;
+}
+
+#izq3{
+    float: left;
+}
