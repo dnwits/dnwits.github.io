@@ -1,11 +1,16 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(178, 202, 136);
 }
 
 header{
     display: grid;
     grid-template-columns: 20% 80%;
-    background-color: bisque;
+    background-color: rgb(89, 104, 70);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    text-decoration: underline;
 }
 
 div img{
@@ -25,7 +30,7 @@ nav li:hover{
 }
 
 nav{
-    background-color: rgb(131, 193, 196);
+    background-color: rgb(139, 173, 128);
     padding: 15px;
 }
 
@@ -37,28 +42,33 @@ li{
 main{
     grid-template-columns: 2 / 3;
     text-align: justify;
+    color: rgb(25, 34, 27);
     padding: 20px;
     font-size: 17px;
-    background-color: burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(178, 202, 136);
 }
 
 article{
     grid-template-columns: 3 / 4;
     background-image: url(../imagenes/8-9.jpg);
-    background-size: 400px 750px;
+    background-size: 535px 750px;
     background-position-x: 25%;
     background-position-y: 15%;
-    border-radius:  15px 15px 15px 15px;
+    background-repeat: repeat;
+    border-radius:  20px 20px 20px 20px;
 }
 
-footer{
+
+
+#grande{
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    height: 125px;
+    height: 130px;
 }
+/*al ser 33% hay pixeles que se pierden, por eso en el navegador esta parte no cubre del todo por la derecha*/
 
 #izq{
-    border: 1px solid skyblue;
     grid-column: 1 / 2;
     background-color: darkkhaki;
 }
@@ -69,14 +79,13 @@ footer{
     padding-right: 3px;
     font-size: 17px;
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(207, 233, 167);
 }
 
 #cent{
-    background-color: lemonchiffon;
+    background-color: rgb(160, 192, 100);
     display: flex;
-    justify-content: space-around;
-    border: 1px solid skyblue;
+    /*justify-content: space-around;*/
     grid-column: 2 / 3;
     padding: 20px;
 }
@@ -94,22 +103,26 @@ footer{
 }
 
 #album1{
-    left: 20px;
-    top: 5px;
+    left: 18%;
+    top: 5%;
 }
 
 #album2{
-    left: -16px;
-    top: 15px;
+    left: 17%;
+    top: 2%;
 }
 
 #album3{
-    left: -49px;
-    top: 7px;
+    left: 16%;
+    top: 7%;
 }
 
 #der{
-    border: 1px solid skyblue;
-    grid-column: 3 / 4
+    grid-column: 3 / 4;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    color: aliceblue;
+    background-color: rgb(68, 100, 64);
 }
 
