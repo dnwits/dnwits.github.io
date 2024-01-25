@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    background-color: bisque;
+}
+
+#logo{
+    background-image: url(imagenes/logo_provenzana.jpg);
+    background-size: 150px 120px ;
+    grid-column: 1 /2 ;
+}
+
+#content{
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+}
+
+
+
