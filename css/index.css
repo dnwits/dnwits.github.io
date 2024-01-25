@@ -8,11 +8,10 @@ header{
     background-color: bisque;
 }
 
-#logo{
-    /*background-image: url(imagenes/logo_provenzana.jpg);
-    background-size: 150px 120px ;*/
+div img{
     grid-column: 1 /2 ;
-    
+    width: 150px;
+    height: 110px;
 }
 
 #content{
@@ -40,6 +39,7 @@ main{
     text-align: justify;
     padding: 20px;
     font-size: 17px;
+    background-color: burlywood;
 }
 
 article{
@@ -60,6 +60,7 @@ footer{
 #izq{
     border: 1px solid skyblue;
     grid-column: 1 / 2;
+    background-color: darkkhaki;
 }
 
 #lista2 li{
@@ -72,39 +73,41 @@ footer{
 }
 
 #cent{
+    background-color: lemonchiffon;
+    display: flex;
+    justify-content: space-around;
     border: 1px solid skyblue;
     grid-column: 2 / 3;
-    height: 150px;
+    padding: 20px;
 }
 
-#cent a{
-    width: 115px;
-    height: 115px;
-    position: absolute;
+.album{
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+
 }
 
 .album img{
-    position: absolute;
     width: 100%;
     height: 100%;
 }
 
 #album1{
-    position: absolute;
-    top: 800px;
-    left: 500px;
+    z-index: 3;
+    margin-left: -170px;
 }
 
 #album2{
     position: absolute;
-    top: 830px;
-    left: 590px;
+    left: 46.9%;
 }
 
 #album3{
     position: absolute;
-    top: 800px;
-    left: 700px;
+    left: 54%;
 }
 
 #der{
