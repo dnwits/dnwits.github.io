@@ -10,11 +10,16 @@ footer{
     width: 830px;
     border: 5px solid black;
     display: grid;
+    grid-template-columns: 20% 60% 20%;
+
 }
 
 #nombre{
-    width: 100%;
+    width: 95%;
+    display: block;
+    margin: 0 auto;
 }
+
 h6{
     color: #fef2cd;
     padding: 0px;
@@ -22,6 +27,8 @@ h6{
 
 #content{
     border: 3px solid black;
+    grid-column: 1 / 4;
+
 }
 
 #izq1{
@@ -30,6 +37,9 @@ h6{
 
 #sighted{
     grid-columns: 2 / 3;
+    grid-row: 2 / 3;
+    display: block;
+    margin: 0 auto;
 }
 
 #sirius{
@@ -41,7 +51,7 @@ h6{
 }
 
 #izq2{
-
+    grid-column: 1 / 2;
 }
 
 #izq3{
