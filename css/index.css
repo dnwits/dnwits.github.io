@@ -3,6 +3,10 @@ body{
     background-color: rgb(178, 202, 136);
 }
 
+ /* practica CSS3 */ 
+
+ 
+
 header{
     display: grid;
     grid-template-columns: 15% 85%;
@@ -128,7 +132,5 @@ article{
     background-color: rgb(68, 100, 64);
 }
 
- /* practica CSS3 */ 
 
- 
 
