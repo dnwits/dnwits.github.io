@@ -3,10 +3,6 @@ body{
     background-color: rgb(178, 202, 136);
 }
 
- /* practica CSS3 */ 
-
- 
-
 header{
     display: grid;
     grid-template-columns: 15% 85%;
@@ -76,7 +72,7 @@ article{
 
 #izq{
     grid-column: 1 / 2;
-    background-color: darkkhaki;
+    /*background-color: darkkhaki;*/
 }
 
 #lista2 li{
@@ -132,5 +128,37 @@ article{
     background-color: rgb(68, 100, 64);
 }
 
+ /* PRÀCTICA CSS3 */ 
 
+header{
+    color: white;
+    font-size: 25px;
+    text-shadow: 2px 3px 4px pink;
+}
 
+#der{
+    column-count: 2;
+    column-gap: 15px;
+    background-image: linear-gradient( rgb(76, 100, 71), rgb(130, 184, 114));
+}
+
+#izq{
+    background-color: rgba(134, 168, 40, 0.7);
+}
+
+#album1{
+    transform: rotate(-10deg);
+}
+
+#album2{
+    transform: rotate(10deg);
+}
+
+#album3{
+    transform: rotate(15deg);
+}
+
+.album:hover{
+    width: 120px;
+    height: 120px;
+}
