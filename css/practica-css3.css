@@ -173,3 +173,23 @@ h4{
     /*column-rule: 1px solid lightblue; todo lo que arriba*/
     column-span: all; /*para que las columnas se creen en todo el espacio*/
 }
+
+#animation{
+    grid-row: 6 / 10;
+    grid-column: 3 / 5;
+    width: 170px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: ani;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+}
+
+@keyframes ani {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:green; left:200px; top:0px;}
+    50%  {background-color:yellow; left:200px; top:200px;}
+    75%  {background-color:blue; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
